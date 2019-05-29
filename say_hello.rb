@@ -2,5 +2,5 @@
 def say_hello(name)
   print "Hello " + name +"!"
 else print "Hello Ruby Programmer!"
-    
+
 end
